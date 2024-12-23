@@ -21,3 +21,8 @@ body{
 li {
     margin-bottom: 8px;
 }
+
+.container{
+    width: 700px;
+    margin: 0 auto;
+}
