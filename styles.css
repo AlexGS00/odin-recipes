@@ -25,6 +25,10 @@ h1{
     font-size: 18px;
 }
 
+.list{
+    margin-bottom: 40px;
+}
+
 li {
     margin-bottom: 8px;
 }
