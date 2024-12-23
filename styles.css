@@ -2,9 +2,15 @@ body{
     background-color: rgb(248, 241, 231);
 }
 .recipie-link{
+    display: block;
     font-size: 22px;
     font-family:'Times New Roman', Times, serif;
-    color:rgb(3, 4, 19)
+    color:rgb(3, 4, 19);
+    margin-bottom: 28px;
+}
+
+.links{
+    text-align: center;
 }
 
 h1{
