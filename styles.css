@@ -17,3 +17,7 @@ body{
     font-family: "Georgia", "Garamond", serif;
     font-size: 18px;
 }
+
+li {
+    margin-bottom: 8px;
+}
